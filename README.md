@@ -65,3 +65,10 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # habr-backend
+
+### Flow-chart
+https://miro.com/app/board/uXjVNlXBos0=/
+### Database
+https://erd.dbdesigner.net/designer/schema/1709552775-blogpost
+### Presentation
+https://docs.google.com/presentation/d/1rMFfT51Xq39t5gGBPWyzZoP6j8cyPm4dFn_4zTihMzc/edit
